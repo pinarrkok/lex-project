@@ -6,15 +6,25 @@
 # Syntax
 
     <if> ::= if( <expression> ) <statement>
+    
     <while statement> ::= while( <expression> ) <statement> 
+    
     <expression> ::= <expression> | <assignment>
+    
     <assignment operator> ::= =
+    
     <number> ::= <number> |<digit>
+    
     <digit> ::= 0 | 1 |2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 
+    
     <boolean> ::= TRUE | FALSE
+    
     <math operations> ::= + | - | * | /
+    
     <comparison operations> ::= < | > | != | <= | >= | == | && | || 
+    
     <increment> ::= ++
+    
     <decrement> ::= --
   
   
