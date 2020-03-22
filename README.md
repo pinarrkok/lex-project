@@ -1,8 +1,7 @@
-# Programming Languages HW
-
-# pin
+# Pragramming Language pin
 
     Pinar Kok - 20160808013
+    
    
 # Syntax
 
@@ -21,9 +20,9 @@
   
   # Explanations
     
-    -Pin takes a file with extension “.pin”
-    -It has if, else if, else, while, for, try, catch, switch, case, etc. 
-    -You can run your program by running the makefile and giving it to "pin" as input:
-       make ./pin
-       ./pin
+    - pin takes a file with extension “.pin”
+    - It has if, else if, else, while, for, try, catch, switch, case, etc. 
+    - You can run your program by running the makefile and giving it to "pin" as input:
+        make ./pin
+        ./pin
   
