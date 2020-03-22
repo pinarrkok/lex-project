@@ -1,0 +1,19 @@
+x = 5;
+a = 8 + 5;
+
+while(x < 0){} #this is while loop
+if(t = 2) print(2)
+elsif(t < 2) print(0)
+else print (3)
+
+{a=7,b=8} #this is a dictionary example
+
+arr = [6,7,5,2,3] #this is an array
+#these are some array library examples:
+sort([23,78,6]);
+pop([1,2,3]);
+remove([8,6,3,7,5]);
+
+print(a++); #do increment
+! #Syntax Error example
+
