@@ -4,3 +4,4 @@ pin: pin.l
 
 clean:
 	rm pin lex.yy.c
+ 
